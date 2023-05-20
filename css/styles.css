@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(235, 162, 114);
+}
+
+h1{
+    color: rgb(145, 69, 7);
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+.titles{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head,
+.txt{
+    text-align: center;
+}
+
+#sing{
+    background-color: white;
+}
+
+li,
+.txt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
