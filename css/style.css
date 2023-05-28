@@ -1,19 +1,31 @@
 body{
-    background-color: rgb(155, 184, 155); 
+    background-color:rgb(218, 230, 238);
 }
 
 .title{
     text-align: center;
     font-family: Helvetica, sans-serif;
     font-size: 50px;
-    color: rgb(60, 90, 69);
-    background-color: rgb(219, 226, 221);
+    color: rgb(169, 197, 214);
+    border: 10px dotted rgb(245, 200, 118);
+    width: 800px;
+    padding: 10px;
+    margin: 40px auto;
 }
 
 li,
 a{
+    text-align: center;
     font-size: 20px;
     font-weight: bold;
     font-family: Helvetica, sans-serif;
-    color: black;
+    color: rgb(185, 130, 28);
+}
+
+div{
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 8px;
+    border: 8px double rgb(141, 163, 196);
 }
